@@ -2,7 +2,7 @@
 
 ## Escopo
 
-Completar o esboço com o fluxo indicado no vídeo: planejamento, pesquisa paralela e compilação. Manter Ollama e Tavily, acrescentar Streamlit e preservar `garph.py` como import de compatibilidade. Não publicar `.env`, não afirmar equivalência linha a linha com material não recuperado e não criar funcionalidades fora do projeto de pesquisa.
+Implementar planejamento, pesquisa paralela e compilação de respostas com Ollama, Tavily e Streamlit. Preservar `garph.py` como import de compatibilidade e manter `.env` fora do repositório.
 
 ## Plano de execução
 
