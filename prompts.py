@@ -1,4 +1,4 @@
-"""Prompts próprios, inspirados no fluxo apresentado pela Asimov Academy."""
+"""Instruções para planejamento de pesquisas e síntese de respostas."""
 
 PLANNER_PROMPT = """Você planeja uma pesquisa na web. Hoje é {today}.
 Crie de 1 a {max_queries} consultas curtas, distintas e relevantes para a pergunta.
