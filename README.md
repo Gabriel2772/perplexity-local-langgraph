@@ -2,7 +2,7 @@
 
 Aplicação de pesquisa na web com planejamento por LLM, consultas paralelas no Tavily e resposta em português com fontes. Interface em Streamlit, executada no computador do usuário.
 
-Projeto de estudo de **Gabriel Amaral**, inspirado no vídeo [Recriei o PERPLEXITY AI usando LLMs locais, Python e LangGraph!](https://www.youtube.com/watch?v=q2XPEjQ4Yt0), da **Asimov Academy**. Esta é uma implementação própria que completa os arquivos iniciais do projeto; não é uma cópia integral do código do curso nem tem vínculo com a Perplexity.
+Projeto de **Gabriel Amaral** para pesquisa na web com modelos de linguagem locais.
 
 ## Executar no Windows / PowerShell
 
@@ -92,8 +92,6 @@ Os testes executam o grafo real do LangGraph com planejador, escritor e buscador
 
 ## Referências
 
-- [Vídeo da Asimov Academy](https://www.youtube.com/watch?v=q2XPEjQ4Yt0)
-- [Material original indicado na descrição](https://asimov.academy/materiais/perplexity-open-source-com-langgraph/) — página não acessível durante a implementação; não houve cópia do material.
 - [LangGraph: workflows e workers](https://docs.langchain.com/oss/python/langgraph/workflows-agents)
 - [Integração ChatOllama](https://docs.langchain.com/oss/python/integrations/chat/ollama)
 - [Tavily Python SDK](https://docs.tavily.com/sdk/python/reference)
